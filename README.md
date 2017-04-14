@@ -10,3 +10,5 @@ Indeed, the various fields that study human behavior have observed this problem 
 For more information on specific components of this project, as well as the broader topic of visualization for social justice, please contact us.
 
 [1] Crouser, R.J. and Crouser, M.R. "Mind the Gap: the Importance of Pluralistic Discourse in Computing for Mental Health." To appear at the 2016 Workshop on Computing for Mental Health at the ACM SIGCHI Conference on Human-Computer Interaction.
+
+# Collecting Data
